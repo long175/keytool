@@ -1,3 +1,3 @@
 key = ['tranphu', 'Key2']
-user_device = ['IDDevice']
-key_user_device = ['KeyIDDevice']
+user_device = ['03000200-0400-0500-0006-000700080009']
+key_user_device = ['1']
